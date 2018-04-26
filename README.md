@@ -1,3 +1,3 @@
 # hello-world
 Introduction to Github
-This is the first Github cranch
+This is the first Github branch
